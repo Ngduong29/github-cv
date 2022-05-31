@@ -1,0 +1,69 @@
+.top--header{
+    height: 170px;
+}
+.top--header-name{
+    float: left;
+    width: 52%;
+}
+.head--name{
+    text-decoration: none;
+    color:#69b0bf;
+    font-family:sans-serif, 'Times New Roman', Times, serif;
+    padding-top: 30px;
+    padding-left: 6%;
+}
+
+.head--name h2{
+    font-weight: normal;
+    line-height: 70%;
+}
+.top--header-block{
+    float: right;
+    width: 40%;
+}
+.top--block-style{
+    width: 95px;
+    height: 75px;
+    background-color:#66aebe;
+
+}
+.group--header{
+    background-color: #66aebe;
+    padding: 20px 30px;
+    color: #fff;
+    position: relative;
+    min-height: 150px;
+    font-family:sans-serif, 'Times New Roman', Times, serif
+}
+.group--block1{
+    float: left;
+    width: 57.2%;
+}
+.block1--header{
+    position: relative;
+    margin-bottom: 5px;
+}
+.block1--body{
+    word-break: break-word;
+}
+.group--block2{
+    float: right;
+    width: 40%;
+}
+.block2--imgouter{
+    width: 180px;
+    height: 240px;
+    margin-top: -110px;
+    position: absolute;
+    margin-left: 50px;
+}
+.block2--imginner{
+    width: 100%;
+    height: 100%;
+}
+.picture{
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    object-fit: cover;
+}
