@@ -67,3 +67,32 @@
     border-radius: 5px;
     object-fit: cover;
 }
+.group--top{
+    background-color: #66aebe;
+    padding: 15px 25px;
+    color: #fff; 
+    position: relative;
+    min-height: 150px;
+}
+
+.profile--item{
+    width: 33.3333333333%;
+    float: left;
+    margin: 8px 0;
+    position: relative;
+    padding-left: 10px;
+}
+.profile-icon{
+    width: 24px;
+    height: 23px;
+    line-height: 24px;
+    background: #f3f3f3;
+    text-align: center;
+    border-radius: 12px;
+    color: #66aebe;
+    margin-right: 15px;
+    position: relative;
+}
+.group--profile{
+   
+}
